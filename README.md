@@ -6,10 +6,6 @@
 
 ## 📊 GitHub stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=eNiiju&hide=html&langs_count=6&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img width="450px" src="https://raw.githubusercontent.com/eNiiju/eNiiju/main/github_stats.svg" alt="Github Stats" title="Terminal Style GitHub Stats" />
 
-<p align="center" >
-  <a href="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=eNiiju&hide=html&langs_count=6&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
