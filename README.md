@@ -1,6 +1,6 @@
 # ✨ Hi there 👋
 
-I am a engineering student with a passion for software development with an interest in user interface design.
+I am a engineering student passionate about software development with an interest in user interface design.
 
 <img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,css,bots,docker,electron,figma,git,github,gitlab,go,html,java,js,linux,mastodon,mongodb,mysql,nodejs,ps,raspberrypi,rust,svelte,tailwind,threejs,vue,wasm" />
 
