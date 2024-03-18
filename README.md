@@ -2,7 +2,7 @@
 
 I am a engineering student passionate about software development with an interest in user interface design.
 
-<img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,css,bots,docker,electron,figma,git,go,html,java,js,linux,mongodb,mysql,nodejs,rust,svelte,tailwind,vue,wasm" />
+<img src="https://skillicons.dev/icons?i=androidstudio,bash,blender,c,css,bots,docker,electron,figma,git,go,html,java,js,linux,mysql,nodejs,rust,svelte,tailwind,vue,wasm" />
 
 <details>
   <summary>📈 GitHub Stats</summary>
