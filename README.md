@@ -1,8 +1,8 @@
 # ✨ Hi there 👋
 
-I am a engineering student passionate about software development with an interest in user interface design.
+I am a software engineer passionate creating meaningful, enjoyable user experiences.
 
-<img src="https://skillicons.dev/icons?i=androidstudio,bash,c,css,bots,docker,electron,figma,go,html,java,js,linux,nodejs,svelte,tailwind,vue,wasm" />
+<img src="https://skillicons.dev/icons?i=androidstudio,bash,c,css,deno,discordjs,docker,electron,elysia,figma,go,godot,html,java,js,linux,nodejs,nextjs,react,svelte,tailwind,ts,vue,wasm" />
 
 <details>
   <summary>📈 GitHub Stats</summary>
