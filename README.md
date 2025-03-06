@@ -1,8 +1,8 @@
 # ✨ Hi there 👋
 
-I am a software engineer passionate about creating meaningful, enjoyable user experiences.
+I am a software engineer passionate about crafting meaningful, enjoyable & creative user experiences.
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,svelte,vue,tailwind,electron,c,docker,linux,androidstudio,godot,figma" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,svelte,vue,tailwind,electron,c,go,docker,androidstudio,godot,figma" />
 
 <details>
   <summary>📈 GitHub Stats</summary>
